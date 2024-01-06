@@ -2,8 +2,6 @@ name: Deploy static page
 
 on:
   workflow_dispatch:
-    branches:
-      - $default-branch
   push:
     branches:
       - $default-branch
