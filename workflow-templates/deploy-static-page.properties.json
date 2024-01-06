@@ -1,0 +1,8 @@
+{
+    "name": "Deploy static page",
+    "description": "Deploys static page",
+    "filePatterns": [
+        "package.json$"
+    ]
+}
+
